@@ -1,4 +1,4 @@
--  Hello there, I’m vicmacabre
+-  Hello there, I’m Hady
 - AI is pretty rad!!
 
 
